@@ -1,0 +1,32 @@
+*{
+    font-family: Tahoma;
+}
+#banner1, #banner2{
+    background-color: #003d33;
+    color: white;
+    text-align: center;
+    height: 50px;
+    float: left;
+}
+#banner1{
+    width: 70%;
+}
+#banner2{
+    width: 30%;
+}
+#left{
+    background-color: #26a69a;
+    height: 550px;
+    width: 30%;
+    float: left;
+}
+#right{
+    background-color: #26a69a;
+    height: 550px;
+    width: 70%;
+    float: left;
+}
+#foot{
+    background-color: #003d33;
+    color: white;
+}
